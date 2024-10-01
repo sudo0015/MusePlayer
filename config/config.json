@@ -1,0 +1,16 @@
+{
+    "Update": {
+        "CheckUpdateAtStartUp": true
+    },
+    "MainWindow": {
+        "DpiScale": 1.25,
+        "EnableAcrylicBackground": true
+    },
+    "Folders": {
+        "Music": "D:/MusePlayer"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ffff8232",
+        "ThemeMode": "Auto"
+    }
+}
